@@ -1,6 +1,6 @@
 <h1 align="center"> <img align="center" src = "https://miro.medium.com/v2/resize:fit:828/format:webp/0*62GbVVD-xtCOrya5" width="420" height="260" /></h1>
-<h1 align="center">Hi 👋, I'm Umair</h1>
-<h3 align="center">I’m a Computer Science student From Pakistan 💻🖥</h3>
+<h1 align="center">Hi 👋, I'm Umair🌟</h1>
+<h3 align="center">A Computer Science student From Pakistan 💻</h3>
 
 
 <!-----ABOUT ME------>
