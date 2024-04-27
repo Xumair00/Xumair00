@@ -1,7 +1,7 @@
 <h1 align="center"> <img align="center" src = "https://miro.medium.com/v2/resize:fit:828/format:webp/0*62GbVVD-xtCOrya5" width="420" height="260" /></h1>
 <h1 align="center">Hi 👋, I'm Umair🌟</h1>
 <h3 align="center">A Computer Science student From Pakistan 💻</h3>
-
+ 
 
 <!-----ABOUT ME------>
 ## <img src="https://media2.giphy.com/media/SyIidSBQvyuDhEBj5T/giphy.gif?cid=ecf05e47a6kptpzfzvz0s8r4b791xm2998wq31sb5dstcqqg&rid=giphy.gif&ct=s" width="30px">About Me
