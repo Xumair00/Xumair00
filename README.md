@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Science student From Pakistan 💻</h3>
  
 
-<!-----ABOUT ME------>
+<!-----ABOUT ME------> 
 ## <img src="https://media2.giphy.com/media/SyIidSBQvyuDhEBj5T/giphy.gif?cid=ecf05e47a6kptpzfzvz0s8r4b791xm2998wq31sb5dstcqqg&rid=giphy.gif&ct=s" width="30px">About Me
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/lnhuXTf.gif">
 - 📑 I am passionate about learning new programming languages and developing efficient software solutions.
